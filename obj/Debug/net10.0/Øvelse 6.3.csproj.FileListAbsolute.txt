@@ -1,0 +1,14 @@
+C:\Users\mvk\web\Øvelse 6.3\bin\Debug\net10.0\Øvelse 6.3.exe
+C:\Users\mvk\web\Øvelse 6.3\bin\Debug\net10.0\Øvelse 6.3.deps.json
+C:\Users\mvk\web\Øvelse 6.3\bin\Debug\net10.0\Øvelse 6.3.runtimeconfig.json
+C:\Users\mvk\web\Øvelse 6.3\bin\Debug\net10.0\Øvelse 6.3.dll
+C:\Users\mvk\web\Øvelse 6.3\bin\Debug\net10.0\Øvelse 6.3.pdb
+C:\Users\mvk\web\Øvelse 6.3\obj\Debug\net10.0\Øvelse 6.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvk\web\Øvelse 6.3\obj\Debug\net10.0\Øvelse 6.3.AssemblyInfoInputs.cache
+C:\Users\mvk\web\Øvelse 6.3\obj\Debug\net10.0\Øvelse 6.3.AssemblyInfo.cs
+C:\Users\mvk\web\Øvelse 6.3\obj\Debug\net10.0\Øvelse 6.3.csproj.CoreCompileInputs.cache
+C:\Users\mvk\web\Øvelse 6.3\obj\Debug\net10.0\Øvelse 6.3.dll
+C:\Users\mvk\web\Øvelse 6.3\obj\Debug\net10.0\refint\Øvelse 6.3.dll
+C:\Users\mvk\web\Øvelse 6.3\obj\Debug\net10.0\Øvelse 6.3.pdb
+C:\Users\mvk\web\Øvelse 6.3\obj\Debug\net10.0\Øvelse 6.3.genruntimeconfig.cache
+C:\Users\mvk\web\Øvelse 6.3\obj\Debug\net10.0\ref\Øvelse 6.3.dll
